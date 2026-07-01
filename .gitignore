@@ -1,3 +1,4 @@
 .env
 .venv/
 demo.mp4
+__pycache__/
