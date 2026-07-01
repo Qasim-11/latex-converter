@@ -4,9 +4,9 @@ This project is a small Windows clipboard tool that reads an image from the clip
 
 ## What It Does
 
-- Converts screenshots or other clipboard images into text plus LaTeX.
-- Keeps inline math in `$...$` and display math in `$$...$$`.
+- Converts screenshots or other clipboard images into text plus LaTeX formatted.
 - Copies the result back to the clipboard so you can paste it anywhere.
+- Useful to chat LLM Chatbots without having to send them images to avoid rate-limits or their multimodal capability 
 
 ## Images Used
 
