@@ -68,7 +68,7 @@ python app.py
 
 - AI suggested me good VLMs, yet gemini was the best as expected.
 - AI taught me LaTeX standards and structered the initial prompt.
-- AI built the ```notify``` function to notify the user without a terminal. 
+- AI built the ```show_popup``` function to notify the user without a terminal. 
 
 ## What I Changed, Fixed, or Improved Myself
 
