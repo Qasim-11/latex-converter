@@ -2,3 +2,4 @@
 .venv/
 demo.mp4
 __pycache__/
+*.py[cod]
